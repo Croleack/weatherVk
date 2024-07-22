@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  weatherVk
+
+  Created by test on 22.07.2024.
+  
+*/
+"bliss" = "Кайфно";
+"cloudy" = "Облачно";
+"flood" = "Наводнение";
+"hail" = "Град";
+"meteor" = "Метеориты";
+"rainy" = "Дождливо";
+"snowy" = "Снег";
+"solarEclipse" = "Солнечное затмение";
+"storm" = "Гроза";
+"sunny" = "Солнечно";
+"tornado" = "Торнадо";

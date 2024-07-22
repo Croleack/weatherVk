@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  weatherVk
+
+  Created by test on 22.07.2024.
+  
+*/
+"bliss" = "Bliss";
+"cloudy" = "Cloudy";
+"flood" = "Flood";
+"hail" = "Hail";
+"meteor" = "Meteor";
+"rainy" = "Rainy";
+"snowy" = "Snowy";
+"solarEclipse" = "Solar eclipse";
+"storm" = "Storm";
+"sunny" = "Sunny";
+"tornado" = "Tornado";
